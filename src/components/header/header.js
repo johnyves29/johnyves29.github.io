@@ -24,12 +24,12 @@ export default class Header extends Component {
                <h3>I am a {resumeData.role}.{resumeData.roleDescription}</h3>
             <hr />
             <ul className="social">
-              <li><a href="#"><i className="fa fa-facebook" /></a></li>
-              <li><a href="#"><i className="fa fa-twitter" /></a></li>
-              <li><a href="#"><i className="fa fa-google-plus" /></a></li>
-              <li><a href="#"><i className="fa fa-linkedin" /></a></li>
-              <li><a href="#"><i className="fa fa-instagram" /></a></li>
-              <li><a href="#"><i className="fa fa-github" /></a></li>
+              <li><a href="https://www.facebook.com/johnyves.marin"><i className="fa fa-facebook" /></a></li>
+              <li><a href="https://twitter.com/jym_marin"><i className="fa fa-twitter" /></a></li>
+              {/* <li><a href="#"><i className="fa fa-google-plus" /></a></li> */}
+              <li><a href="https://www.linkedin.com/in/john-yves-marin-7b07a5165/"><i className="fa fa-linkedin" /></a></li>
+              <li><a href="https://www.instagram.com/johnyvesmarin/"><i className="fa fa-instagram" /></a></li>
+              <li><a href="https://github.com/johnyves29"><i className="fa fa-github" /></a></li>
             </ul>
           </div>
         </div>

@@ -6,8 +6,8 @@ export default class About extends Component {
       {/*generated code*/}
       <section id="about">
         <div className="row">
-          <div className="three columns">
-            <img className="profile-pic" src="images/profilepic.jpg" alt="" />
+          <div className="three columns about-profile">
+            <img className="profile-pic" src="images/profile.jpeg" alt="" />
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
@@ -22,12 +22,12 @@ export default class About extends Component {
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
                 <p className="address">
-                  <span>Jonathan Doe</span><br />
-                  <span>1600 Amphitheatre Parkway<br />
-                    Mountain View, CA 94043 US
+                  <span>John Yves Marin</span><br />
+                  <span>Malolos City 3000<br />
+                    Bulacan, PH
                   </span><br />
-                  <span>(123)456-7890</span><br />
-                  <span>anyone@website.com</span>
+                  <span>(+63) 909-355-7033</span><br />
+                  <span>johnyvesmarin@website.com</span>
                 </p>
               </div>
               <div className="columns download">

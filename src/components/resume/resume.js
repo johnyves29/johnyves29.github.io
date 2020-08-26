@@ -17,8 +17,8 @@ export default class Resume extends Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>University of Life</h3>
-                <p className="info">Master in Graphic Design <span>•</span> <em className="date">April 2007</em></p>
+                <h3>La Verdad Christian College</h3>
+                <p className="info">Bachelor of Science in Information Systems <span>•</span> <em className="date">March 2018</em></p>
                 <p>
                   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
                   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
@@ -27,7 +27,7 @@ export default class Resume extends Component {
                 </p>
               </div>
             </div> {/* item end */}
-            <div className="row item">
+            {/* <div className="row item">
               <div className="twelve columns">
                 <h3>School of Cool Designers</h3>
                 <p className="info">B.A. Degree in Graphic Design <span>•</span> <em className="date">March 2003</em></p>
@@ -38,7 +38,7 @@ export default class Resume extends Component {
                   ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
                 </p>
               </div>
-            </div> {/* item end */}
+            </div> item end */}
           </div> {/* main-col end */}
         </div> {/* End Education */}
         {/* Work
@@ -50,8 +50,8 @@ export default class Resume extends Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>Awesome Design Studio</h3>
-                <p className="info">Senior UX Designer <span>•</span> <em className="date">March 2010 - Present</em></p>
+                <h3>MnK.Soft Software Development</h3>
+                <p className="info">Junior FrontEnd Developer <span>•</span> <em className="date">April 2019 - Present</em></p>
                 <p>
                   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
                   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
@@ -62,8 +62,8 @@ export default class Resume extends Component {
             </div> {/* item end */}
             <div className="row item">
               <div className="twelve columns">
-                <h3>Super Cool Studio</h3>
-                <p className="info">UX Designer <span>•</span> <em className="date">March 2007 - February 2010</em></p>
+                <h3>CodeEric IT Solutions</h3>
+                <p className="info">Web / Game Developer <span>•</span> <em className="date">May 2018 - March 2019</em></p>
                 <p>
                   This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
                   Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
